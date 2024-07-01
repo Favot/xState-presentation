@@ -1,0 +1,51 @@
+{
+  questions: [
+    {
+      answer_a: "Dessert cocktail",
+      answer_b: "Brunch cocktail",
+      answer_c: "Aperitif cocktail",
+      answer_d: "Nightcap cocktail",
+      answer_explanation: "A Mimosa is a brunch cocktail made with champagne and chilled citrus juice, usually orange juice.",
+      correct_answer: "Brunch cocktail",
+      id: 1,
+      question_prompt: "What type of cocktail is a Mimosa?",
+    },
+    {
+      answer_a: "Lemon wedge",
+      answer_b: "Cherry",
+      answer_c: "Mint leaf",
+      answer_d: "Celery stick",
+      answer_explanation: "A Bloody Mary cocktail is typically garnished with a celery stick, along with other condiments like olives and pickles.",
+      correct_answer: "Celery stick",
+      id: 2,
+      question_prompt: "Which of these ingredients is typically used to garnish a Bloody Mary cocktail?",
+    },
+    {
+      answer_a: "Sasha Petraske",
+      answer_b: "Dale DeGroff",
+      answer_c: "Dick Bradsell",
+      answer_d: "Julie Reiner",
+      answer_explanation: "The legend goes that during a late 80s party, a young lady approached Dick Bradsell and asked for: 'something to wake me up, then fuck me up'",
+      correct_answer: "Dick Bradsell",
+      id: 3,
+      question_prompt: "Who invented the Expresso Martini cocktail?",
+    },
+  ],
+  todos: [
+    {
+      id: 1,
+      label: "Preparer un IPDej sur xState",
+      isDone: true,
+    },
+    {
+      id: 2,
+      label: "Presenter xState à Ippon",
+      isDone: false,
+    },
+    {
+      id: 3,
+      label: "Preparer une seconde presentation sur la gestion des actor",
+      isDone: false,
+    },
+  ],
+}
